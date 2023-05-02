@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SimiyuVic
 - 👀 I’m interested in  Machine Learning and AI
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,php code igniter 
 - 💞️ I’m looking to collaborate on python related projects and any other tasks
 - 📫 How to reach me vicoffocial300@gmail.com
 
