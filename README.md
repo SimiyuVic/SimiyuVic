@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SimiyuVic
 - 👀 I’m interested in  WebDevelopment
-- 🌱 I’m currently learning CodeIgniter, Jaascript and Flutter
+- 🌱 I’m currently learning CodeIgniter, Javascript and Flutter
 - 💞️ I’m looking to collaborate on web related projects, android deveopment  and any other tasks
 - 📫 How to reach me simiyuvic@outlook.com
 
