@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SimiyuVic
 - 👀 I’m interested in  WebDevelopment
-- 🌱 I’m currently learning Laravel, Javascript and Flutter
+- 🌱 I’m currently learning React and React Native
 - 💞️ I’m looking to collaborate on web related projects, android deveopment  and any other tasks
 - 📫 How to reach me simiyuvic@outlook.com
 
