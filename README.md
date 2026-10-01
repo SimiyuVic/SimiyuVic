@@ -82,8 +82,6 @@ I'm a passionate software developer who enjoys building **modern, practical, and
 | 🤖 | **AI-Powered Apps** | Integrations with AI APIs |
 | 🔐 | **Auth & Admin Dashboards** | JWT-based auth and role-based access |
 
-> 📌 Pin your best repos on your profile, and link them here as you go!
-
 ---
 
 ## 📊 GitHub Stats
